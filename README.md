@@ -2,4 +2,6 @@
 # ZooMu Workshops
 ## Topical Workshops of the ZooMu network
 
-Support site for the [ZooMu Network](https://zoomunetwork.org/)
+Main site for the [ZooMu Network](https://zoomunetwork.org/)
+
+[Wiki for the workshops](https://github.com/ZooMu/ZooMuWorkshops/wiki)
